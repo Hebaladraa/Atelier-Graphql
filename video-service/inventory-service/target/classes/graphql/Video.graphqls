@@ -1,0 +1,8 @@
+type Video{
+    id:Int,
+    name:String,
+    url:String,
+    description:String,
+    datePublication:String,
+    creator:Creator
+}
